@@ -43,15 +43,12 @@ Python and Matplotlib were used to create five charts:
 4. Country sales
 5. Customer segments
 
-## Project Files
+## Project Structure
+- `SQL Scripts/` — SQL analysis queries
+- `CSV Exports/` — Exported analysis results
+- `Matplotlib Visualization/` — Python script and charts
 
-All project files are currently stored in the repository's root directory.
-
-- **SQL Scripts:** 13 SQL files covering data cleaning, sales analysis, product performance, customer segmentation, and country analysis.
-- **CSV Exports:** 4 CSV files containing the results of the SQL analysis.
-- **Python Script:** `visualization.py`, used to generate the charts with Pandas and Matplotlib.
-- **Visualizations:** 5 PNG charts showing monthly revenue, revenue growth, top products, country sales, and customer segments.
-- **Documentation:** `README.md`, describing the project, objectives, tools, and limitations.
+*Folder names may differ slightly depending on how the project files are organized.*
 
 ## Limitations
 - The analysis depends on the quality of the original transaction data.
